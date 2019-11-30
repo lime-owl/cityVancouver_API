@@ -1,0 +1,11 @@
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\bin\Debug\netcoreapp2.2\cityVancouver_API.deps.json
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\bin\Debug\netcoreapp2.2\cityVancouver_API.runtimeconfig.json
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\bin\Debug\netcoreapp2.2\cityVancouver_API.runtimeconfig.dev.json
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\bin\Debug\netcoreapp2.2\cityVancouver_API.dll
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\bin\Debug\netcoreapp2.2\cityVancouver_API.pdb
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.csprojAssemblyReference.cache
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.csproj.CoreCompileInputs.cache
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.AssemblyInfoInputs.cache
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.AssemblyInfo.cs
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.dll
+C:\Users\A01211467\Desktop\cityVancouver_API\cityVancouver_API\obj\Debug\netcoreapp2.2\cityVancouver_API.pdb
